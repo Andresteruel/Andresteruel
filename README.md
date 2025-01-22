@@ -16,8 +16,10 @@
 
 <a href="https://instagram.com/TU-INSTAGRAM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Tu Instagram" height="30" width="40" /></a>
 
-<a href="mailto:andresterueltorres@gmail.com" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="Tu Gmail" height="30" width="40" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=andresterueltorres@gmail.com" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="Enviar correo" height="30" width="40" />
+</a>
+
 </a>
 
 </p>
