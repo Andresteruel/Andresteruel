@@ -5,8 +5,8 @@
 
 ---
 
-<p align="center">
   ## 🧑‍💻 **Sobre mí**
+<p align="center">
   Actualmente soy estudiante de 2ºDAM
 </p>
 
