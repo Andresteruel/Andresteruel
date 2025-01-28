@@ -7,6 +7,9 @@
 
 ## 🧑‍💻 **Presentación**
 Actualmente soy estudiante de 2ºDAM
+
+![Developer Workspace](https://github.com/Andresteruel/Andresteruel/bannerprogramacion.jpg)
+
 ---
 
 ## 🛠 **Habilidades**
