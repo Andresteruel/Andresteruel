@@ -30,4 +30,4 @@
 
 Puedes descargar el ejecutable del juego desde el siguiente enlace:
 
-[Descargar Ejecutable]([https://link-a-tu-archivo-en-google-drive.com](https://drive.google.com/file/d/1RM063yAM2g7qet7Bbxn4w0H6HUlFzedX/view?usp=drive_link))
+[Descargar Ejecutable](https://drive.google.com/file/d/1RM063yAM2g7qet7Bbxn4w0H6HUlFzedX/view?usp=drive_link)
