@@ -1,5 +1,4 @@
-# Andrés Teruel
-### Desarrollador de Aplicaciones Multiplataforma
+## Desarrollador de Aplicaciones Multiplataforma
 
 [![Email](https://img.shields.io/badge/Email-email?style=flat&logo=gmail)](mailto:andresterueltorres@gmail.com)
 
