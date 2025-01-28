@@ -34,5 +34,3 @@ Puedes descargar el ejecutable del juego desde el siguiente enlace:
    - **Descripción**: Web ambientada en senderismo, proyecto realizado en equipo
    - **Tecnologías**: WordPress, HTML, CSS
    - **Enlace al repositorio**: [Sitio Web en WordPress](https://github.com/Andresteruel/wordpress-blog)
-   - ![Captura del sitio web](https://github.com/Andresteruel/wordpress-blog/screenshot.png)
-
