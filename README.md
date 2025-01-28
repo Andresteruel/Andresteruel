@@ -7,6 +7,8 @@
 ## 🧑‍💻 **Sobre mí**
 - Actualmente soy estudiante de 2ºDAM
 
+## 📍 Utrera (Sevilla)
+
 <p align="center">
   <img src="https://github.com/Andresteruel/Andresteruel/blob/main/bannerprogramacion.jpg" alt="Developer Workspace">
 </p>
