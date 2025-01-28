@@ -5,10 +5,10 @@
 
 ---
 
-## 🧑‍💻 **Presentación**
+## 🧑‍💻 **Sobre mí**
 Actualmente soy estudiante de 2ºDAM
 
-![Developer Workspace](https://github.com/Andresteruel/Andresteruel/blob/main/bannerprogramacion.jpg)
+![Banner](https://github.com/Andresteruel/Andresteruel/blob/main/bannerprogramacion.jpg)
 
 
 ---
