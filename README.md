@@ -26,7 +26,7 @@
 
 ---
 
-## 🎮 Juego Ejecutable Realizado en Unity
+## 🎮 Ejecutable juego 3D realizado en Unity
 
 Puedes descargar el ejecutable del juego desde el siguiente enlace:
 
