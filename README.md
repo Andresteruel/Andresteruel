@@ -7,8 +7,6 @@
 
 ## 🧑‍💻 **Presentación**
 Actualmente soy estudiante de 2ºDAM
-![Developer Workspace](https://www.example.com/imagen.gif)
-
 ---
 
 ## 🛠 **Habilidades**
